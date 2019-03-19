@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "Aang",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fopef_jnhx2f31x2f498262x2fpsjhjobmx2fbboh-gjmn-dibsbdufst-qipup-2x3fx78x3d231x26ix3d231x26rx3d71x26gnx3dqkqhx26gjux3ddspqx26dspqx3dgbdftx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },  
+    {
+      "id": 2,
+      "name": "Katara",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f79x2f2463395x2fpsjhjobmx2flbubsb-gjmn-dibsbdufst-qipup-v2x3fx78x3d231x26ix3d231x26rx3d71x26gnx3dqkqhx26gjux3ddspqx26dspqx3dgbdftx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 3,
+      "name": "Azula",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f03x2f2948148x2fpsjhjobmx2fqsjodftt-bavmb-uw-dibsbdufst-qipup-v2x3fx78x3d391x26ix3d391x26gjux3ddspqx26dspqx3dgbdftx26rx3d61x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 4,
+      "name": "Zuko",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f03x2f2949620x2fpsjhjobmx2fqsjodf-avlp-gjmn-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 5,
+      "name": "Sokka",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f214x2f3166271x2fpsjhjobmx2ftpllb-gjmn-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 6,
+      "name": "Toph",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f225x2f3374120x2fpsjhjobmx2fupqi-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 7,
+      "name": "Appa",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f463x2f8148505x2fpsjhjobmx2fbqqb-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 8,
+      "name": "Iroh",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f227x2f3411665x2fpsjhjobmx2fvodmf-jspi-gjmn-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 9,
+      "name": "Hakoda",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f2718x2f43240498x2fpsjhjobmx2fiblpeb-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 10,
+      "name": "Buu",
+      "image": "https://c-7npsfqifvt34x24jnhjyx2esbolfsx2edpn.g00.ranker.com/g00/3_c-7x78x78x78.sbolfs.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fjnhjy.sbolfs.dpnx2fvtfs_opef_jnhx2f61131x2f2111400389x2fpsjhjobmx2fnpnp-uw-dibsbdufst-qipup-v2x3fx78x3d98x26ix3d98x26gjux3ddspqx26dspqx3dgbdftx26rx3d71x26gnx3dqkqhx26j21d.nbslx3djnbhf_$/$/$/$/$/$"
+    },
+    {
+      "id": 11,
+      "name": "Frieza",
+      "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbamsmackpow.com%2Ffiles%2F2017%2F05%2FGolden-Frieza-Dragon-Ball-Z-Resurrection-F-15.jpg&c=sc&w=850&h=560"
+    },
+    {
+      "id": 12,
+      "name": "Cell",
+      "image": "https://media.comicbook.com/2017/03/dragon-ball-z-cell-screen-shot-2017-03-09-at-113650-pm-237504-1280x0.png"
+    },
+    {
+      "id": 13,
+      "name": "Broly",
+      "image": "https://i.ytimg.com/vi/MDX049lqytI/maxresdefault.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Cooler",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/08/Cooler-Final-Form-Dragon-Ball-Z.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Beerus",
+      "image": "https://medias.spotern.com/spots/w640/111881-1532336916.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Yamcha",
+      "image": "http://0.media.dorkly.cvcdn.com/14/77/8c6d2605349d1b2d26208f039b4ccc30.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Roshi",
+      "image": "https://otakukart.com/animeblog/wp-content/uploads/2016/07/Dragon-Ball-Z-Revival-of-F.mp4_snapshot_00.39.17_2016.04.29_13.08.38.png"
+    },
+    {
+      "id": 18,
+      "name": "Android 18",
+      "image": "https://cache.desktopnexus.com/thumbseg/2123/2123994-bigthumbnail.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Whis",
+      "image": "http://static.comicvine.com/uploads/original/11121/111215084/4454463-whis_dbz_by_noheyarofo-d6piw8z.png"
+    },
+    {
+      "id": 20,
+      "name": "Babidi",
+      "image": "https://i.ytimg.com/vi/J8HC0pkqVqA/maxresdefault.jpg"
+    }
+  ]

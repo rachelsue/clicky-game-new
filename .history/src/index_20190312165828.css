@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background: url('./images/1fd7865d2a1cc4366630975353fff8df--awesome-drawings-korra-avatar.jpg');
+  color: white;
+}
